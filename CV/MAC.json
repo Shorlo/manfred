@@ -137,6 +137,67 @@
     ]
   },
   "careerPreferences": {
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "C",
+          "type": "technology"
+        },
+        {
+          "name": "C++",
+          "type": "technology"
+        },
+        {
+          "name": "CSS",
+          "type": "technology"
+        },
+        {
+          "name": "Express",
+          "type": "technology"
+        },
+        {
+          "name": "HTML",
+          "type": "technology"
+        },
+        {
+          "name": "JavaScript",
+          "type": "technology"
+        },
+        {
+          "name": "MongoDB",
+          "type": "technology"
+        },
+        {
+          "name": "NodeJS",
+          "type": "technology"
+        },
+        {
+          "name": "Objective-C",
+          "type": "technology"
+        },
+        {
+          "name": "PHP",
+          "type": "technology"
+        },
+        {
+          "name": "Puppeteer",
+          "type": "technology"
+        },
+        {
+          "name": "Swift",
+          "type": "technology"
+        }
+      ],
+      "discardedCompetences": [
+        {
+          "name": "JAVA",
+          "type": "technology"
+        }
+      ],
+      "preferredRoles": [
+        "Backend Developer"
+      ]
+    },
     "status": "searchingActively"
   },
   "asgardPreferences": {
