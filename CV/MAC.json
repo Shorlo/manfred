@@ -1,0 +1,166 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Javier",
+      "surnames": "Sainz de Baranda",
+      "title": "Técnico Superior en Desarrollo Web",
+      "description": "Soy técnico superior en desarrollo web desde el 2022 y llevo inmerso en el mundo de la informática y la programación desde hace más de 10 años.\nHe tenido diferentes trabajos a lo largo del tiempo, mi último trabajo fue el de automatizar los procesos de selección de candidatos para una conocida empresa de recursos humanos.\nMe encanta programar y todo lo relacionado con Internet y las nuevas tecnologías, especialmente en el backend, aunque también se me da bien el frontend de la web. Me gusta resolver los problemas por muy difíciles que puedan parecer. ",
+      "location": {
+        "notes": "Autocompleted using Google Maps API"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "github",
+        "URL": "https://github.com/Shorlo"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Becadvisor"
+        },
+        "roles": [
+          {
+            "name": "Desarrollador web fullstack",
+            "startDate": "2022-02-01",
+            "finishDate": "2023-03-01",
+            "challenges": [
+              {
+                "description": "Trabajé de desarrollador web con la idea de automatizar los procesos de selección de los candidatos. Cree multitud de programas de scraping necesarios para la automatización de los procesos de selección para subirlos a la base de datos. Además de estas funciones también era la del mantenimiento de la web."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "English",
+        "level": "Professional working proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "PHP",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Mongoose",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MongoDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Github",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NodeJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Express",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MariaDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Objective-C",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Puppeteer",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MySQL",
+          "type": "technology"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "status": "searchingActively"
+  },
+  "asgardPreferences": {
+    "mainStackTechs": [
+      {
+        "name": "NodeJS",
+        "type": "technology"
+      },
+      {
+        "name": "Express",
+        "type": "technology"
+      },
+      {
+        "name": "Puppeteer",
+        "type": "technology"
+      },
+      {
+        "name": "Git",
+        "type": "technology"
+      },
+      {
+        "name": "JavaScript",
+        "type": "technology"
+      }
+    ]
+  }
+}
